@@ -111,7 +111,7 @@
 .masthead h1 {
   font-family: 'Varela Round';
   font-size: 7vw;
-  height: 50vh;
+  height: 10vh;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
   background: -webkit-linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.5));
@@ -119,10 +119,11 @@
   -webkit-background-clip: text;
 }
 
-/*.masthead h2 {
-  max-width: 20rem;
-  font-size: 1rem;
-}*/
+.masthead h2 {
+  font-size: 5vh;
+  margin: auto;
+
+}
 
 
 @media (min-width: 768px) {
@@ -146,6 +147,10 @@
     max-width: 30rem;
     font-size: 1.25rem;
   }*/
+}
+
+.home-butt {
+  margin: 20vh 0 0 0;
 }
 
 .btn {
@@ -287,7 +292,7 @@
   box-shadow: 0 10px 50px 5px #2C292E;
 }
 
-.mern-img {
+.mern-img, .btn {
   box-shadow: -10px 10px 25px 0 black;
 }
 
