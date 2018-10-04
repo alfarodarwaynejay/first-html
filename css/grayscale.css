@@ -288,6 +288,14 @@
     width: 30%;
   }
 }
+.display-4 {
+  color: white;
+}
+
+.display-5 {
+  color: #E2E0E1;
+  text-align: left;
+}
 
 /* -- shadows start -- */
 .about-section {
@@ -318,41 +326,11 @@
   background-size: cover;
 }
 
-/*.signup-section .form-inline input {
-  -webkit-box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
-  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
-  padding: 1.25rem 2rem;
-  height: auto;
-  font-family: 'Varela Round';
-  font-size: 80%;
-  text-transform: uppercase;
-  letter-spacing: 0.15rem;
-  border: 0;
-}*/
-
 .contact-section {
   padding: 5rem 0 2rem 0;
   height: 90vh
   margin-bottom: 2rem;
 }
-
-/*.contact-section .card {
-  border: 0;
-  border-bottom: 0.25rem solid #64a19d;
-}
-
-.contact-section .card h4 {
-  font-size: 0.8rem;
-  font-family: 'Varela Round';
-  text-transform: uppercase;
-  letter-spacing: 0.15rem;
-}
-
-.contact-section .card hr {
-  border-color: #64a19d;
-  border-width: 0.25rem;
-  width: 3rem;
-}*/
 
 .contact-section .social {
   margin-top: 5rem;
@@ -382,7 +360,7 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: white;
 }
 
 a:focus, a:hover {

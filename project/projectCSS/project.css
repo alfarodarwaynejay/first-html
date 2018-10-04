@@ -1,0 +1,23 @@
+
+.masthead {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 35rem;
+  padding: 15rem 0;
+  /*background: -webkit-gradient(linear, left top, left bottom, from(rgba(206, 167, 255, 0.1)), color-stop(90%, rgba(255, 0, 222, 0.5)), to(#b224ef)), url("../projectimage/tea.jpg");*/
+  background: linear-gradient(to bottom, rgba(206, 167, 255, 0.5) 70%, rgba(255, 0, 222, 0.5) 90%, #b224ef 100%), url("../projectimage/tea.jpg"); /*Photo by Alexandru Acea on Unsplash*/
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.display-5 {
+	color: #E2E0E1;
+	font-size: 1.5rem;
+	text-align: left;
+}
+
+a {color: white;}
+

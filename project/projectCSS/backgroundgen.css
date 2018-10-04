@@ -1,0 +1,45 @@
+body {
+	font-family: 'Orbitron', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background-image: linear-gradient(to right, #b224ef 0%, #7579ff 100%)
+}
+
+h1 {
+    font-family: 600 3.5em 'Orbitron', sans-serif;
+    color: rgba(0,0,0,.7);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+    padding: 10rem 0 5rem 0;
+}
+
+h2 {
+    padding-top: 5rem;
+}
+
+h3 {
+    font-family: 900 2em 'Orbitron', sans-serif;
+    color: rgba(0,0,0,.6);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+
+.color1, .color2 {
+    border: 2px solid black;
+}
+
+img {
+    width: 2vw;
+    height: 2vh;
+}
+
+a {
+    margin-top: 10rem;
+}
